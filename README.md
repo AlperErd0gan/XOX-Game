@@ -49,6 +49,3 @@ The Turtle XOX game is a classic Tic-Tac-Toe game implemented using Python's Tur
 
 Feel free to submit issues or pull requests if you have any suggestions or improvements for the game.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
