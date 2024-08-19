@@ -17,7 +17,7 @@ The Turtle XOX game is a classic Tic-Tac-Toe game implemented using Python's Tur
 1. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
 2. Clone this repository:
    ```sh
-   git clone https://github.com/AlperErd0gan/XOX-game.git
+   git clone https://github.com/AlperErd0gan/XOX-Game.git
 ## Usage
 
 1. When the game starts, press the spacebar to begin.
